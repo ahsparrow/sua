@@ -7248,9 +7248,6 @@ CIRCLE RADIUS=00.25 CENTRE=N510128 W0013420
 #   High Intensity Radio Transmission Areas               #
 ###########################################################
 #
-# Some HIRTAs are duplicated in the RTM section
-#
-#
 TYPE=DANGER
 CLASS=X
 TITLE=HIRTA BARFORD ST JOHN
