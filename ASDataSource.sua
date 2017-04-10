@@ -3,7 +3,6 @@
 #  Air Traffic Services Airspace                                              #
 ###############################################################################
 #
-#
 # FIRs and UIRs ignored
 #
 TYPE=CTA/CTR
@@ -445,8 +444,6 @@ POINT=N500000 W0014700
 POINT=N500000 W0015149
 POINT=N503700 W0012620
 #
-#
-# NOTE: base is FL35 or 3014 ft QNG whichever is higher.
 TYPE=CTA/CTR
 CLASS=A
 TITLE=PTH CTA5
@@ -571,9 +568,6 @@ POINT=N505334 W0014051
 POINT=N505950 W0013614
 POINT=N510045 W0013053
 #
-#
-# CTA 14 does not exist
-#
 TYPE=CTA/CTR
 CLASS=A
 TITLE=PTHCTA15
@@ -619,7 +613,6 @@ POINT=N505512 W0013047
 POINT=N505334 W0014051
 POINT=N510045 W0013053
 POINT=N510123 W0012711
-#
 #
 TYPE=CTA/CTR
 CLASS=C
@@ -735,7 +728,6 @@ POINT=N502754 W0013240
 POINT=N503156 W0014700
 POINT=N504441 W0013824
 #
-#Was classified as L9/M17/L175
 TYPE=AIRWAYS
 CLASS=A
 TITLE=STRUMBLE CTA-1
@@ -768,8 +760,6 @@ POINT=N510000 E0012800
 POINT=N505842 E0010227
 POINT=N512247 E0011549
 #
-# WORTH CTA-6 Off-shore
-# Mainly offshore but includes the BGA turn point at Selsey Bill.
 TYPE=CTA/CTR
 CLASS=A
 TITLE=WORTH CTA-7
@@ -1338,7 +1328,6 @@ POINT=N533918 W0023900
 # Scottish TMA-1 is listed under Edinburgh so that
 # it can be incorporated in the LoA include/exclude sets
 #
-# This extends to FL245, above FL195 it is Class C
 TYPE=CTA/CTR
 CLASS=D
 TITLE=S-TMA-2
@@ -1356,7 +1345,6 @@ POINT=N554334 W0050000
 # P600 Access LOA start
 #
 # INCLUDE this if excluding the LOA
-# This extends to FL245, above FL195 it is Class C
 TYPE=CTA/CTR
 CLASS=D
 TITLE=S-TMA-3
@@ -1415,8 +1403,6 @@ POINT=N560000 W0044400
 POINT=N561400 W0040926
 #
 # P600 Access LOA end
-#
-# This extends to FL245, above FL195 it is Class C
 TYPE=CTA/CTR
 CLASS=D
 TITLE=S-TMA-4
@@ -1427,7 +1413,6 @@ POINT=N553100 W0025156
 POINT=N552700 W0030000
 POINT=N560008 W0024849
 #
-# This extends to FL245, above FL195 it is Class C
 TYPE=CTA/CTR
 CLASS=D
 TITLE=S-TMA-5
@@ -1439,8 +1424,6 @@ POINT=N553302 W0042918
 POINT=N554334 W0050000
 POINT=N554428 W0045035
 #
-#   Scottish TMA CLASS E
-# Technically this should be TYPE=OTHER, but I think this is safer
 TYPE=CTA/CTR
 CLASS=E
 TITLE=S-TMA-6
@@ -1453,7 +1436,6 @@ POINT=N554336 W0050000
 POINT=N555000 W0050000
 POINT=N555500 W0045200
 #
-# Technically this should be TYPE=OTHER, but I think this is safer
 TYPE=CTA/CTR
 CLASS=E
 TITLE=S-TMA-7
