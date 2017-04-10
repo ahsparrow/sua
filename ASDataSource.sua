@@ -2302,25 +2302,6 @@ POINT=N494500 W0054500
 #  Lower ATS routes                                       #
 ###########################################################
 #
-# This section of the AIPs defines the airways.  They are defined as a centre
-# line point, bearing, distance and width, with some coincident.  The AIPs also
-# include a graphic display of the result.  This file has used earlier files
-# checked against the AIP graphics, with spreadsheet generated data for those
-# airways in the graphics but not in the earlier files.
-#
-# Note that they are not all Class A
-# Airways extension above FL195 have been omitted
-# Airways embedded in other Controlled Airspace have been omitted
-# Where an airway has 2 types (AIRWAY and TMZ) it has been entered twice.
-#
-# N560
-#
-# L6 embedded in WORTH CTA-1, LONDON TMA-25 and LONDON TMA-3
-# L8 embedded in DAV CTA-9, DAV CTA-8, DAV CTA-7 and MANCHR TMA-1
-# L9 embedded in WORTH CTA-1, LONDON TMA-25, LONDON TMA-3, LONDON TMA-1,
-#                LONDON TMA-11, LONDON TMA-23, COTS CTA-3 (but projects below),
-#                and N864-3 - other sections are :
-# To save data space, L9-2 and L9-3 are projected up so COTS CTA-3 can be omitted.
 TYPE=AIRWAYS
 CLASS=A
 TITLE=L9-2
@@ -4234,7 +4215,6 @@ POINT=N562230 W0025909
 #
 # P600 & N864 LOA end
 #
-# Aberdeen apron
 TYPE=TMZ
 CLASS=E
 TITLE=Y904/Y905/P600-E
@@ -4353,7 +4333,6 @@ POINT=N572958 W0041232
 POINT=N571326 W0041636
 POINT=N571207 W0035819
 #
-# This has a minimum ALT of 5200
 TYPE=TMZ
 CLASS=E
 TITLE=Y906-E
