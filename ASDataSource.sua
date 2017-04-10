@@ -6894,7 +6894,6 @@ POINT=N522642 W0040000
 #   Gas Venting Stations                                  #
 ###########################################################
 #
-#
 TYPE=DANGER
 CLASS=X
 TITLE=GVS ST FERGUS
@@ -6921,7 +6920,6 @@ BASE=SFC
 TOPS=2900ALT
 CIRCLE RADIUS=00.25 CENTRE=N564054 W0025555
 #
-# Formerly Bathgate
 TYPE=DANGER
 CLASS=X
 TITLE=GVS AVONBRIDGE
@@ -6964,7 +6962,6 @@ BASE=SFC
 TOPS=3000ALT
 CIRCLE RADIUS=00.25 CENTRE=N544011 W0013403
 #
-# Carnforth & Nether Kellet
 TYPE=DANGER
 CLASS=X
 TITLE=GVS NETHER KELLET
