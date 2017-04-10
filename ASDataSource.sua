@@ -5850,23 +5850,6 @@ CIRCLE RADIUS=01.50 CENTRE=N563449 W0023645
 ###########################################################
 #
 #
-# FL100 to FL195
-#
-# From Ulster Gliding Club web site :
-# From 6th April 2012, gliders operating at or above FL100 are generally
-# required to have a functioning Secondary Surveillance radar transponder. To
-# facilitate operation of non-transponder equipped gliders, NATS has designated
-# six 'Non-Secondary Surveillance Radar Glider Areas'. Whilst making use of
-# this facility, glider pilots must remain VFR and must comply with all other
-# rules of the air for the class of airspace being entered.
-# *** This facility will terminate on 1st April 2015 ***
-#
-# This line enables all the wave boxes
-# Wave Boxes (only defined on the UK AIP)
-#
-# These areas intermingle with the other defined airspace.
-#
-#
 # NSGA Area 1 - North of 55 Lat within the FIR
 #
 TYPE=GSEC
@@ -5904,8 +5887,6 @@ POINT=N550000 W0010000
 POINT=N545959 W0010000
 POINT=N545959 W0060000
 POINT=N550000 W0060000
-#
-#
 #
 # NSGA Area 2 - Greater Yorkshire
 #
@@ -5972,8 +5953,6 @@ POINT=N535308 W0023714
 POINT=N534144 W0011604
 POINT=N534145 W0011604
 #
-#
-#
 # NSGA Area 3 - Derbyshire
 #
 TYPE=GSEC
@@ -6034,8 +6013,6 @@ POINT=N530817 W0013321
 POINT=N530604 W0011928
 POINT=N524538 W0005257
 POINT=N524539 W0005258
-#
-#
 #
 # NSGA Area 4 - Wales
 #
@@ -6113,7 +6090,6 @@ POINT=N515104 W0041856
 POINT=N513708 W0030425
 POINT=N513814 W0022708
 POINT=N513815 W0022708
-#
 #
 # Dartmoor
 TYPE=GSEC
