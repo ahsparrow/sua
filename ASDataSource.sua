@@ -9,6 +9,15 @@
 # George Knight:  Airspace.GJK@virginmedia.com
 #
 # Change History.  For full history see separate Change Summary text file.
+#   25/05/17   Add new Cotswold CTA
+#              Remove old Cotswold CTA and airways absorbed into Cotswold CTA:
+#                L9-2, L9-3, N14-1, N14-2, N14-3, P2, N864-2, N864-3, N864-4
+#                and N864-5
+#              Split RILES LoA into two parts: RAGLAN box is part of
+#                Cotswold CTA, and MADLEY box is part of N862-N864
+#              Raise base of Portsmouth CTA-5 to FL55
+#              Correct start/end coordinate mismatches: SPADEADEM and
+#                TRAG-A
 #   27/04/17   Brize Competition LoA added.
 #              Nuclear Excemption LoA. Added Aldermaston and Burghfield,
 #                remove Harwell.
