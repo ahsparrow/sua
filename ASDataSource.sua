@@ -18,6 +18,7 @@
 #              Raise base of Portsmouth CTA-5 to FL55
 #              Correct start/end coordinate mismatches: SPADEADEM and
 #                TRAG-A
+#              Update P18/M150/Y99 coordinates to match surrounding CTAs
 #   27/04/17   Brize Competition LoA added.
 #              Nuclear Excemption LoA. Added Aldermaston and Burghfield,
 #                remove Harwell.
