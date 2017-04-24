@@ -9,19 +9,17 @@
 # George Knight:  Airspace.GJK@virginmedia.com
 #
 # Change History.  For full history see separate Change Summary text file.
-#   25/05/17   Add new Cotswold CTA
-#              Remove old Cotswold CTA and airways absorbed into Cotswold CTA:
-#                L9-2, L9-3, N14-1, N14-2, N14-3, P2, N864-2, N864-3, N864-4
-#                and N864-5
-#              Split RILES LoA into two parts: RAGLAN box is part of
+#   25/05/17   Cotswold CTA. Add new CTA, remove old Cotswold CTA and
+#                airways absorbed into Cotswold CTA: L9-2, L9-3, N14-1,
+#                N14-2, N14-3, P2, N864-2, N864-3, N864-4 and N864-5
+#              RILES LoA. Split into two parts: RAGLAN box is part of
 #                Cotswold CTA, and MADLEY box is part of N862-N864
-#              Raise base of Portsmouth CTA-5 to FL55
-#              Correct start/end coordinate mismatches: SPADEADEM and
-#                TRAG-A
-#              Update P18/M150/Y99 coordinates to match surrounding CTAs
-#              Y70-5 becomes NORTH SEA CTA-1
-#              Move Y70, Y96 N562, L602 & Y958 to ENR3.3 (RNAV)
-#              Rename P16/P17/P18/Y70/Y250 airspace
+#              Portsmouth CTA-5. Raise base to FL55
+#              SPADEADEM and TRAG-A. Correct start/end mismatch
+#              P18/M150/Y99. Update coordinates to match surrounding CTAs
+#              Y70-5. Becomes NORTH SEA CTA-1
+#              Y70, Y96 N562, L602 & Y958. Move to ENR3.3 (RNAV)
+#              P16/P17/P18/Y70/Y250. Update airspace names
 #   27/04/17   Brize Competition LoA added.
 #              Nuclear Excemption LoA. Added Aldermaston and Burghfield,
 #                remove Harwell.
