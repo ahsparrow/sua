@@ -29,6 +29,7 @@
 #              Peterborough Conington ATZ. Correct spelling.
 #              Wittering MATZ, Kinloss/Lossiemouth MATZ, Ternhill ATZ/MATZ
 #                minor corrections to coordinates.
+#              Brimpton - duplicate entry removed.
 #   30/03/17   Lee-on Solent ATZ revised with minor changes
 #              Fleetlands ATZ / CTA revised.              
 #              Solent Collaberative Airspace trial ended October 16 so removed.
@@ -11514,13 +11515,14 @@ BASE=SFC
 TOPS=2003ALT
 CIRCLE RADIUS=00.50 CENTRE=N510332 E0005653
 #
-#FILTERTAG LIMIT 00000 N512337 N512237 W0011100 W0010924
+##FILTERTAG LIMIT 00000 N512337 N512237 W0011100 W0010924
 # Listed as a Training Airfield
-TITLE=BRIMPTON
-BASE=SFC
+#Duplicate entry with incorrect coordinates removed April 2017
+#TITLE=BRIMPTON
+#BASE=SFC
 # 210ft
-TOPS=2210ALT
-CIRCLE RADIUS=00.50 CENTRE=N512307 W0011012
+#TOPS=2210ALT
+#CIRCLE RADIUS=00.50 CENTRE=N512307 W0011012
 #
 #FILTERTAG LIMIT 00000 N531229 N531129 W0001606 W0001426
 TITLE=BUCKNALL
