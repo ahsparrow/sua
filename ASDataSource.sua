@@ -9,6 +9,8 @@
 # George Knight:  Airspace.GJK@virginmedia.com
 #
 # Change History.  For full history see separate Change Summary text file.
+#              Most of the work for the April and May changes has been
+#              done by Alan Sparrow - many thanks for his contribution.
 #   25/05/17   Cotswold CTA. Add new CTA, remove old Cotswold CTA and
 #                airways absorbed into Cotswold CTA: L9-2, L9-3, N14-1,
 #                N14-2, N14-3, P2, N864-2, N864-3, N864-4 and N864-5
@@ -22,6 +24,9 @@
 #              P16/P17/P18/Y70/Y250. Update airspace names
 #              Valley Stub. Correction to centre coordinate
 #              Leeds East. Changed to licensed aerodrome
+#              Radius around Sandy Heath RTM reduced to 0.5 nm.
+#              Cranwell elevation changed to 222'.
+#              Obstacles (mainly masts) updated.  See Change Summary for details.
 #   27/04/17   Brize Competition LoA added.
 #              Nuclear Excemption LoA. Added Aldermaston and Burghfield,
 #                remove Harwell.
