@@ -9888,11 +9888,11 @@ CIRCLE RADIUS=01.00 CENTRE=N520837 W0020217
 # has been applied.
 # * All offshore obstacles excluded.
 # * All wind-powered generators excluded.
-# * Obstacles in Norther Ireland, Central London and Manchester excluded.
+# * Obstacles in Norther Ireland, Central LonDOn and Manchester excluded.
 # * Obstacles with tops < 600' above surface excluded.
 # * Only highest of a cluster of obstacles shown.
 # * Forth bridges excluded
-# This reduces number of obstacles in airspace file to 57. (April '17)
+# This reduces number of obstacles in airspace file to 58. (April '17)
 # Obstacles where height unknown assumed to be 499' high.
 #
 #FILTERTAG RTMS
@@ -10418,7 +10418,6 @@ TITLE=UK0229A009F
 BASE=SFC
 TOPS=1995ALT
 CIRCLE RADIUS=00.50 CENTRE=N503041 W0042612
-#
 #
 #FILTERTAG RTME
 #
