@@ -1,4 +1,4 @@
-#GJK20170622.sua
+#GJK20170720.sua
 #
 #  	  This file is provided free of charge with no warrantees
 # 			     expressed or implied.
@@ -9,6 +9,8 @@
 # George Knight:  Airspace.GJK@virginmedia.com
 #
 # Change History.  For full history see separate Change Summary text file.
+#   20/07/17   BOGNOR REGIS changed from unlicensed AD to glider site.
+#              BENSON MATZ vertical limits corrected (thanks to Michael H).
 #   22/06/17   Names of all obstacles updated to be meaningful.
 #              NSGA-1 replaced by NSGA-1 SCOTLAND and NSGA-1A BORDERS, the area covered
 #                 is reduced - not all of mainland north of N55 is included.
@@ -42,15 +44,6 @@
 #              Radius around Sandy Heath RTM reduced to 0.5 nm.
 #              Cranwell elevation changed to 222'.
 #              Obstacles (mainly masts) updated.  See Change Summary for details.
-#   27/04/17   Brize Competition LoA added.
-#              Nuclear Excemption LoA. Added Aldermaston and Burghfield,
-#                remove Harwell.
-#              Chipping LoA. Updated coordinates of L612/N57.
-#              Camphill Box LoA. Updated coordinates of N601.
-#              Peterborough Conington ATZ. Correct spelling.
-#              Wittering MATZ, Kinloss/Lossiemouth MATZ, Ternhill ATZ/MATZ
-#                minor corrections to coordinates.
-#              Brimpton - duplicate entry removed.
 #
 ###############################################################################
 #
