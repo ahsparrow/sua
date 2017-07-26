@@ -10877,6 +10877,8 @@ CIRCLE RADIUS=02.00 CENTRE=N515246 W0011320
 ###########################################################
 #
 INCLUDE=YES
+TYPE=GSEC
+CLASS=X
 #
 #FILTERTAG GCATZS
 #
