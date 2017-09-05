@@ -1,4 +1,4 @@
-#AHS20170817.sua
+#AHS20170914.sua
 #
 # This file is provided free of charge with no warrantees
 # expressed or implied.
@@ -8,6 +8,10 @@
 # Alan Sparrow:  airspace@freeflight.org.uk
 #
 # Change History.  For full history see separate Change Summary text file.
+#   14/09/17   BRISTOL LOA updated
+#              BOGNOR REGIS elevation updated
+#              STRUMBLE CTA extended to embed L9
+#              RATs removed
 #   17/08/17   SPADEADAM HIRTA rename (to avoid duplicate names)
 #              BRISTOL CTR update frequency (thanks Andy Smith)
 #              NORTH LUFFENHAM remove (Hangglider site, not gliding site)
